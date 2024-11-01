@@ -27,6 +27,15 @@ h1, h2 {
     background-color: #bdbcde;
 }
 
+#portfolio .card-title {
+    color: #1f7798;
+    font-size: 1.2rem;
+}
+
+#portfolio .btn-outline-secondary:hover {
+    background-color: #1f7798;
+}
+
 #section {
     background-color: white;
 }
